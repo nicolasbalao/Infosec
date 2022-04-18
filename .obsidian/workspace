@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "417af5300bf154b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0341bb2bb98b83e",
+        "type": "leaf",
+        "dimension": 52.17948717948718,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "PicoCTF/Easy1.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "8092ff5e15954fd2",
+        "type": "leaf",
+        "dimension": 47.820512820512825,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "PicoCTF/Easy1.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1633293fe970dc06",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b2af1f758657bf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "791be8677aa28926",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "555e2f28752a63d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "701b24814ed2de4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "03d0a9ca7ce95bd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f20fe734ddd13e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PicoCTF/Easy1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f0341bb2bb98b83e",
+  "lastOpenFiles": [
+    "PicoCTF/Easy1.md",
+    "OTP.md",
+    "PicoCTF.md",
+    "Cryptography.md",
+    "infosec summary.md",
+    "Pentesting.md",
+    "PicoCTF/the_numbers.md",
+    "PicoCTF/Irish-Name-Repo-3.md",
+    "PicoCTF/JaWT Scratchpad.md",
+    "Tryhackme/BoilerCTF box.md"
+  ]
+}
