@@ -17,6 +17,8 @@
 ### Cryptography
 #### [[the_numbers]]
 #### [[Easy1]]
+#### [[13]]
+#### [[la_cifra_de]]
 ### Binaray Exploitation
 ### Misc
 ### Reverse Engineering 

@@ -6,6 +6,8 @@
 - cyberchef
 
 
-## Things
+## Methode
 
+### [[Ceasar]]
 ### [[OTP]]
+### [[Vigenere]]
